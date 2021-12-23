@@ -1,0 +1,24 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "HW 4 Plotly"
+      href: plotly_hw4.html
+    - text: "HW 4 Dashboard"
+      href: dashboard_hw4.html
+    - text: "P8105 In-Class Plotly"
+      href: plotly.html
+    - text: "P8105 In-Class Dashboard"
+      href: dashboard.html
+    - icon: fa-paper-plane fa-lg
+      href: mailto:<jodi.scharf@columbia.com>
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/jodischarf/ 
+    - icon: fa-github fa-lg
+      href: http://github.com/jodischarf/
+output:
+  html_document:
+    theme: sandstone

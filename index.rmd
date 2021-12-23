@@ -1,0 +1,22 @@
+---
+title: "Jodi Scharf"
+output: 
+  html_document
+---
+
+<br><img src="images/jodi_pic.png" alt="jodi" style="width:37%; padding-right: 100px" align ="left"><br>
+
+I am currently pursuing pursuing a Master of Public Health (MPH) at [Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/), studying Public Health Research Methods in the [Heilbrunn Department of Population and Family Health](http://www.publichealth.columbia.edu/academics/departments/population-family-health). I received a BA in [Contemplative Studies](https://www.brown.edu/academics/contemplative-studies/) from [Brown University](https://www.brown.edu/) in 2019.
+
+<br>
+
+My interests include mental health & psychosocial support (MHPSS) research, child & adolescent health, mindfulness-based intervention development and implementation, and interdisciplinary collaboration.
+
+<br><br><br>
+
+### Contact Information
+
+Jodi Scharf <br>
+Email: [jodi.scharf@columbia.edu](mailto:jodi.scharf@columbia.edu)  
+
+<br> <br>
