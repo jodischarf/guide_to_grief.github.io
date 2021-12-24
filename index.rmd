@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### 2. Click on the images below for the full, printable PDF versions
 
+<br>
+
 <a href="pdfs/educators.pdf" class="image fit"><img src="images/1.png" alt="pic" style="width:45%" align="left" hspace="10"></a>
 
 <a href="pdfs/classroom.pdf" class="image fit"><img src="images/3.png" alt="pic" style="width:45%" align="right" hspace="10" ></a>
