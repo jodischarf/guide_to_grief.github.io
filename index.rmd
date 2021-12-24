@@ -9,7 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-##### Click on the images for the full, printable PDF version
+##### 1. Click on the tabs above for each guide. Scroll through or save each page as an image!
+
+##### 2. Click on the images below for the full, printable PDF versions
 
 <a href="pdfs/educators.pdf" class="image fit"><img src="images/1.png" alt="pic" style="width:45%" align="left" hspace="10"></a>
 

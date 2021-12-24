@@ -1,23 +1,31 @@
 ---
 title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 <br>
 
 ## The Project
 
-This project was created as a deliverable for the course POPF P8633 - Issues in School-Based Health at Columbia University Mailman School of Public Health.
+This project was created as a deliverable for the course POPF P8633 - Issues in School-Based Health in the Heilbrunn Department of Population and Family Health at Columbia University Mailman School of Public Health. 
+
+Our deliverable consists of 3 parts:
+
+* **Part I** - Getting Through Grief: A Guide for Educators
+* **Part II** - Getting Through Grief: A Guide for the Classroom
+* **Part III** - COVID-19 Resource Guide: Mental Health and Food Assistance Services
 
 <br>
 
+## The Course
+
 **POPF P8633 - Issues in School Based Health** <br>
 
-"Issues in School Based Health is a course designed to give students the opportunity to engage with
-<br>schools so that they have experience and they can learn how to apply both theory and practice. A
-principle of school health is breaking down silos between health and education. Our goal is to provide
-participants with an opportunity to gain hands-on experience working with NYC public schools. They
-must complete a project designed to inform the school health-related work at NYC schools in groups.
-Every year students focus on a topic impacting schools. This year’s focus will be staff and teacher mental
-health support and burnout prevention."
+rom the syllabus: "Issues in School Based Health is a course designed to give students the opportunity to engage with schools so that they have experience and they can learn how to apply both theory and practice. A principle of school health is breaking down silos between health and education. Our goal is to provide participants with an opportunity to gain hands-on experience working with NYC public schools. They must complete a project designed to inform the school health-related work at NYC schools in groups. Every year students focus on a topic impacting schools. This year’s focus was staff and teacher mental health support and burnout prevention."
+
+<br>
 
 **Final Project Description: Supporting Teacher Well-Being and Mental Health** <br>
 
