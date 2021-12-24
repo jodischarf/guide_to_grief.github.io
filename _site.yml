@@ -5,11 +5,11 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Getting Through Grief: For Educators"
+    - text: "I. Getting Through Grief: For Educators"
       href: guide_educators.html
-    - text: "Facing Grief in the Classroom"
+    - text: "II. Getting Through Grief: For the Classroom"
       href: guide_classroom.html
-    - text: "COVID Resources"
+    - text: "III. COVID-19 Resources"
       href: resources.html
     - icon: fa-paper-plane fa-lg
       href: mailto:<jodi.scharf@columbia.com>
