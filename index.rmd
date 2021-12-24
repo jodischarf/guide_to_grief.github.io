@@ -1,22 +1,20 @@
 ---
-title: "Jodi Scharf"
-output: 
-  html_document
+title: "A Guide to Grief: For Edcuators"
+output: html_document
 ---
 
-<br><img src="images/jodi_pic.png" alt="jodi" style="width:37%; padding-right: 100px" align ="left"><br>
-
-I am currently pursuing pursuing a Master of Public Health (MPH) at [Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/), studying Public Health Research Methods in the [Heilbrunn Department of Population and Family Health](http://www.publichealth.columbia.edu/academics/departments/population-family-health). I received a BA in [Contemplative Studies](https://www.brown.edu/academics/contemplative-studies/) from [Brown University](https://www.brown.edu/) in 2019.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 <br>
 
-My interests include mental health & psychosocial support (MHPSS) research, child & adolescent health, mindfulness-based intervention development and implementation, and interdisciplinary collaboration.
+##### Click on the images for the full, printable PDF version
 
-<br><br><br>
+<a href="pdfs/educators.pdf" class="image fit"><img src="images/1.png" alt="pic" style="width:45%" align="left" hspace="10"></a>
 
-### Contact Information
+<a href="pdfs/classroom.pdf" class="image fit"><img src="images/3.png" alt="pic" style="width:45%" align="right" hspace="10" ></a>
 
-Jodi Scharf <br>
-Email: [jodi.scharf@columbia.edu](mailto:jodi.scharf@columbia.edu)  
+<a href="pdfs/resources.pdf" class="image fit"><img src="images/8.png" alt="pic" style="width:40%"  align="left"></a>
+<a href="pdfs/resources.pdf" class="image fit"><img src="images/9.png" alt="pic" style="width:40%"  align="center"></a>
 
-<br> <br>

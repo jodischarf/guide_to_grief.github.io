@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+<br>
+
+## The Project
+
+This project was created as a deliverable for the course POPF P8633 - Issues in School-Based Health at Columbia University Mailman School of Public Health.
+
+<br> 
+
+## The Team
+
+**Jodi Scharf** <br>
+Email: [jys2137@cumc.columbia.edu](mailto:jys2137@columbia.edu)  
+
+**Mary Alex Bowen** <br>
+Email: [mab2412@cumc.columbia.edu](mailto:mab2412@cumc.columbia.edu)  
+
+**Uriel De Monteverde** <br>
+Email: [udd2001@cumc.columbia.edu](mailto:udd2001@cumc.columbia.edu)
+
+**Lauren Kenney** <br>
+Email: [lak2195@cumc.columbia.edu](mailto:lak2195@cumc.columbia.edu)
+<br> <br>

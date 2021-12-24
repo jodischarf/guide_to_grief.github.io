@@ -1,0 +1,14 @@
+---
+Title: "For the Classroom"
+output: 
+  html_document
+---
+
+<br><img src="images/3.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+<br><img src="images/4.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+<br><img src="images/5.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+<br><img src="images/6.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+<br><img src="images/7.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+
+
+<br><br><br>

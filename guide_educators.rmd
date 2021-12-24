@@ -1,0 +1,12 @@
+---
+tite: For Educators
+output: 
+  html_document
+---
+
+<br><img src="images/1.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+<br><img src="images/2.png" alt="guide" style="width:80%; padding-left: 300px"><br>
+
+
+<br><br><br>
+
