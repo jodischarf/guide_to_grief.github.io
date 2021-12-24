@@ -1,5 +1,5 @@
 ---
-title: "A Guide to Grief: For Edcuators"
+title: "A Guide to Grief: For Educators"
 output: html_document
 ---
 
